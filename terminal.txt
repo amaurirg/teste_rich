@@ -1,0 +1,10 @@
+Digite no terminal:
+
+python -m rich
+python -m rich.table
+python -m rich.emoji
+python -m rich.status
+python -m rich.text
+python -m rich.box
+python -m rich.panel
+python -m rich.layout
